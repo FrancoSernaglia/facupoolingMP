@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172917177141",
+    "project_id": "pagomp-92701",
+    "storage_bucket": "pagomp-92701.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172917177141:android:de1929fc322ab8fc50aa7c",
+        "android_client_info": {
+          "package_name": "com.mycompany.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXlcKun1EjjKhDW67rPhzl0_rhTKKrj_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
